@@ -1,0 +1,3 @@
+- implement error checking
+- stuff main window in separate class
+- add SHM IPC for text drawing
